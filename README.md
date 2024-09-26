@@ -4,7 +4,7 @@
 Explore Exoplanets es un proyecto interactivo que facilita el aprendizaje sobre exoplanetas mediante visualizaciones dinámicas y herramientas creativas, haciendo accesible la ciencia a estudiantes de todos los niveles.
 </div>
 
-<h2>Welcome to the Chronicles or Exoplanets. Somos el Team Tycho, de 42 Bcn</h2>
+<h2 align="center">Welcome to the Chronicles or Exoplanets. Somos el Team Tycho, de 42 Bcn</h2>
 
 <div align="center">
 <table>
