@@ -1,6 +1,6 @@
 <div align="center">
 
-  # <a href="#"><img align="center" src="https://github.com/user-attachments/assets/48b836f8-3851-4108-b72b-71681463f2bf"></a> Chronicles Of Exoplanet Exploration
+  # <a href="#"><img align="center" src="https://github.com/user-attachments/assets/48b836f8-3851-4108-b72b-71681463f2bf"></a> Exoplanet Exploration
 Explore Exoplanets es un proyecto interactivo que facilita el aprendizaje sobre exoplanetas mediante visualizaciones dinámicas y herramientas creativas, haciendo accesible la ciencia a estudiantes de todos los niveles.
 </div>
 
@@ -44,6 +44,11 @@ Explore Exoplanets es un proyecto interactivo que facilita el aprendizaje sobre 
 
 </div>
 
+# Tecnologías Empleadas
+Opciones para logos del equipo, se admiten otros conceptos, ideas y/o alternativas, tanto para el nombre como para el simbolo. Se elige Tycho por el astronomo Tycho Brahe por sus trabajos en la refraccion de la luz de los astros, informacion que actualmente se emplea para determinar la composicion de los planetas debido a su espectro.
+<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
+
 # Descripción
 
 <h3 weight="bold">El proyecto consiste en desarrollar un juego basado en la detección y visualización de exoplanetas y los indicadores fisicos que los detectan, utilizando datos científicos y visualizaciones interactivas.</h3>
@@ -66,7 +71,7 @@ Especificaciones generales:
     <td align="center">Requeriments</td>
   </tr>
   <tr>
-    <td align="center"><img width="80" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/e7b838ba-e98a-4041-9506-8a86133ccaa9" /><br>Kotlin<br><br><br><img width="80" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/a0fc5425-d057-4ccd-bba5-9d8d2867c86a" /><br>Swift
+    <td align="center"><a href="#"><img width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" /></a><br><a href="#"><img width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" /></a><br><a href="#"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a><br>
     </td>
     <td align="center" width="250"><img width="200" src="" /></td>
     <td align="center" width="120"></td>
@@ -84,18 +89,18 @@ IDE, lenguajes y plataformas:
 <br>
 <br>
 <div align="center">
-<img src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/fa9b31d9-bd23-406f-a87a-a2fb30c6af42" alt="kotlin" width="90" height="90"/>
-<img src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/e7b838ba-e98a-4041-9506-8a86133ccaa9" alt="kotlin" width="90" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="kotlin" width="90" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="kotlin" width="90" height="90"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="90" height="90"/>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" alt="react" width="45" height="45"/></a>
+<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" alt="git" width="45" height="45"/></a>
+<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/></a>
+
 </div>
 <br>
 
-- <b>Kotlin:</b> Utilizado para el desarrollo de la aplicación móvil en Android Studio.
-- <b>Python:</b> Empleado en el desarrollo de algoritmos de visión por computadora y aprendizaje automático.
-- <b>Java:</b> Utilizado junto con Kotlin en el entorno de desarrollo Android.
-- <b>Jupyter:</b> Permite crear y compartir documentos interactivos que contienen código en varios lenguajes de programación
+- <b>Javascript:</b> Utilizado para el desarrollo de la aplicación móvil en Android Studio.
+- <b>Python:</b> Empleado en el tratamiento de datos, visión por computadora y aprendizaje automático.
 
 <br>
 
