@@ -16,11 +16,11 @@ Explore Exoplanets es un proyecto interactivo que facilita el aprendizaje sobre 
     <td align="center" width="300">Luis Prieto</td>
   </tr>
   <tr>
-    <td align="center" width="300"><img width="165" src="https://github.com/user-attachments/assets/853fa52e-7b1e-4ec0-881d-48480e45cdc8" /></td>
-    <td align="center" width="300"><img width="145" src="https://github.com/user-attachments/assets/6bcb7b68-3055-4940-8009-aab9c816e5bb" /></td>
-    <td align="center" width="300"><img width="145" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/1cf184e2-9afa-4f09-beef-9b5ee37c8853" /></td>
-    <td align="center" width="300"><img width="153" src="https://github.com/user-attachments/assets/358520f3-133d-4c03-bf92-192830a9dc65" /></td>
-    <td align="center" width="300"><img width="145" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/18bf3bbf-ec5f-489b-82e6-ca878ecdde1d" /></td>
+    <td align="center" width="300"><a href="#"><img width="165" src="https://github.com/user-attachments/assets/853fa52e-7b1e-4ec0-881d-48480e45cdc8" /></a></td>
+    <td align="center" width="300"><a href="#"><img width="145" src="https://github.com/user-attachments/assets/6bcb7b68-3055-4940-8009-aab9c816e5bb" /></a></td>
+    <td align="center" width="300"><a href="#"><img width="145" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/1cf184e2-9afa-4f09-beef-9b5ee37c8853" /></a></td>
+    <td align="center" width="300"><a href="#"><img width="153" src="https://github.com/user-attachments/assets/358520f3-133d-4c03-bf92-192830a9dc65" /></a></td>
+    <td align="center" width="300"><a href="#"><img width="145" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/18bf3bbf-ec5f-489b-82e6-ca878ecdde1d" /></a></td>
   </tr>
 
   <tr>
@@ -45,10 +45,10 @@ Explore Exoplanets es un proyecto interactivo que facilita el aprendizaje sobre 
 Opciones para logos del equipo, se admiten otros conceptos, ideas y/o alternativas, tanto para el nombre como para el simbolo. Se elige Tycho por el astronomo Tycho Brahe por sus trabajos en la refraccion de la luz de los astros, informacion que actualmente se emplea para determinar la composicion de los planetas debido a su espectro.
 
 <div align="center">
-<a href="#"><img src="https://github.com/user-attachments/assets/b445371a-d9de-4962-bb81-ead2187b0f33" alt="vscode" width="450" height="450"/></a>
-<a href="#"><img src="https://github.com/user-attachments/assets/3b4a63cb-e2d7-4d7f-be02-10a7ce0c2064" alt="vscode" width="450" height="450"/></a>
-<a href="#"><img src="https://github.com/user-attachments/assets/d00ad600-5765-4ff6-a20d-78518dec8136" alt="vscode" width="450" height="450"/></a>
-<a href="#"><img src="https://github.com/user-attachments/assets/8293109c-dcd6-4385-b766-ff254fe505ba" alt="vscode" width="450" height="450"/></a>
+<a href="#"><img src="https://github.com/user-attachments/assets/b445371a-d9de-4962-bb81-ead2187b0f33" alt="vscode" width="400" height="450"/></a>
+<a href="#"><img src="https://github.com/user-attachments/assets/3b4a63cb-e2d7-4d7f-be02-10a7ce0c2064" alt="vscode" width="400" height="450"/></a>
+<a href="#"><img src="https://github.com/user-attachments/assets/d00ad600-5765-4ff6-a20d-78518dec8136" alt="vscode" width="400" height="450"/></a>
+<a href="#"><img src="https://github.com/user-attachments/assets/8293109c-dcd6-4385-b766-ff254fe505ba" alt="vscode" width="400" height="450"/></a>
 </div>
 
 # Descripción
