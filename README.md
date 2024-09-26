@@ -47,6 +47,8 @@ Opciones para logos del equipo, se admiten otros conceptos, ideas y/o alternativ
 <div align="center">
 <a href="#"><img src="https://github.com/user-attachments/assets/b445371a-d9de-4962-bb81-ead2187b0f33" alt="vscode" width="450" height="450"/></a>
 <a href="#"><img src="https://github.com/user-attachments/assets/3b4a63cb-e2d7-4d7f-be02-10a7ce0c2064" alt="vscode" width="450" height="450"/></a>
+<a href="#"><img src="https://github.com/user-attachments/assets/d00ad600-5765-4ff6-a20d-78518dec8136" alt="vscode" width="450" height="450"/></a>
+<a href="#"><img src="https://github.com/user-attachments/assets/8293109c-dcd6-4385-b766-ff254fe505ba" alt="vscode" width="450" height="450"/></a>
 </div>
 
 # Descripción
