@@ -16,11 +16,11 @@ Explore Exoplanets es un proyecto interactivo que facilita el aprendizaje sobre 
     <td align="center" width="300">Luis Prieto</td>
   </tr>
   <tr>
-    <td align="center" width="300"><img width="150" src="https://github.com/user-attachments/assets/853fa52e-7b1e-4ec0-881d-48480e45cdc8" /></td>
-    <td align="center" width="300"><img width="150" src="https://github.com/user-attachments/assets/6bcb7b68-3055-4940-8009-aab9c816e5bb" /></td>
-    <td align="center" width="300"><img width="150" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/1cf184e2-9afa-4f09-beef-9b5ee37c8853" /></td>
-    <td align="center" width="300"><img width="150" src="https://github.com/user-attachments/assets/358520f3-133d-4c03-bf92-192830a9dc65" /></td>
-    <td align="center" width="300"><img width="150" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/18bf3bbf-ec5f-489b-82e6-ca878ecdde1d" /></td>
+    <td align="center" width="300"><img width="165" src="https://github.com/user-attachments/assets/853fa52e-7b1e-4ec0-881d-48480e45cdc8" /></td>
+    <td align="center" width="300"><img width="145" src="https://github.com/user-attachments/assets/6bcb7b68-3055-4940-8009-aab9c816e5bb" /></td>
+    <td align="center" width="300"><img width="145" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/1cf184e2-9afa-4f09-beef-9b5ee37c8853" /></td>
+    <td align="center" width="300"><img width="153" src="https://github.com/user-attachments/assets/358520f3-133d-4c03-bf92-192830a9dc65" /></td>
+    <td align="center" width="300"><img width="145" src="https://github.com/LLuisPP/ONCE-scalian/assets/116104082/18bf3bbf-ec5f-489b-82e6-ca878ecdde1d" /></td>
   </tr>
 
   <tr>
