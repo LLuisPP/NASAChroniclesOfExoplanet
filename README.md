@@ -8,9 +8,6 @@ Explore Exoplanets es un proyecto interactivo que facilita el aprendizaje sobre 
 
 <div align="center">
 <table>
-  <tr align="center">
-    <td colspan="5" align="center"><h3>Miembros del equipo Tycho</h3></td>
-  </tr>
   <tr>
     <td align="center" width="300">Alba Sans</td>
     <td align="center" width="300">Luis Soto</td>
@@ -44,10 +41,13 @@ Explore Exoplanets es un proyecto interactivo que facilita el aprendizaje sobre 
 
 </div>
 
-# Tecnologías Empleadas
+# Logo del equipo
 Opciones para logos del equipo, se admiten otros conceptos, ideas y/o alternativas, tanto para el nombre como para el simbolo. Se elige Tycho por el astronomo Tycho Brahe por sus trabajos en la refraccion de la luz de los astros, informacion que actualmente se emplea para determinar la composicion de los planetas debido a su espectro.
-<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
+
+<div align="center">
+<a href="#"><img src="https://github.com/user-attachments/assets/b445371a-d9de-4962-bb81-ead2187b0f33" alt="vscode" width="450" height="450"/></a>
+<a href="#"><img src="https://github.com/user-attachments/assets/3b4a63cb-e2d7-4d7f-be02-10a7ce0c2064" alt="vscode" width="450" height="450"/></a>
+</div>
 
 # Descripción
 
