@@ -106,6 +106,9 @@ IDE, lenguajes y plataformas:
 
 <br>
 
+`````
+Ideas para trasfondo
+`````
 
 <h2>Webgraphy</h2>
 - https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/chronicles-of-exoplanet-exploration/ <br>
