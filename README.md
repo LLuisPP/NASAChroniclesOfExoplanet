@@ -107,7 +107,33 @@ IDE, lenguajes y plataformas:
 <br>
 
 `````
-Ideas para trasfondo
+Ideas para trasfondo:
+
+Científico analísta de exoplanetas: Tienes la convición de que hay planetas que podrian ser habitables, se convierte en la misión principal, con ayuda de tu nave y las herramientas necesarias lo lograreis descubrir.
+
+La última esperanza de la humanidad: Tras el colapso ecológico de la Tierra, la Nasa envia a un equipo de exploradores para encontrar exoplanetas habitables.
+
+En busqueda de otras civilizaciones perdidas: Como parte de una expedición, buscas restos de civilizaciones antiguas en exoplanetas. 
+
+Carrera de exploradores interestelares: Compites contra otros exploradores en una carrera por descubrir y catalogar exoplanetas. A medida que adquieres conocimientos y descubres nuevos mundos, subes en el ranking interestelar.
+
+Explorador superviviente: Eres el último superviviente de una misión de la NASA, destinado a explorar exoplanetas y buscar un nuevo hogar para la humanidad mientras luchas con la soledad y la vastedad del espacio.
+
+
+Ideas del juego en 4 fases:
+
+1- Exploración de la Estrella:
+Ajustar el ángulo y la sensibilidad de los sensores para detectar posibles exoplanetas con el Telescopio Espacial (Kepler/TESS), sensores de luz infrarroja y espectrómetro de velocidad radial.
+
+2- Clasificación del Exoplaneta:
+Recopilar datos sobre la atmósfera y masa del planeta utilizando espectroscopía de tránsito, astrometría, sensores atmosféricos y pistas de la nave "Nasi".
+
+3- Exploración del Exoplaneta:
+Adaptar el equipo de exploración según el tipo de exoplaneta para recolectar coleccionables y sobrevivir. Se pueden usar cámara de imágenes directas, drones exploradores, sensores térmicos.
+
+4- Nombrar el Exoplaneta:
+Acción: Una vez completada la exploración, tendrás la opción de nombrar el exoplaneta en la base de datos de nombres galácticos y recargar tu nave para la próxima misión.
+
 `````
 
 <h2>Webgraphy</h2>
