@@ -45,7 +45,7 @@ Explore Exoplanets es un proyecto interactivo que facilita el aprendizaje sobre 
 Opciones para logos del equipo, se admiten otros conceptos, ideas y/o alternativas, tanto para el nombre como para el simbolo. Se elige Tycho por el astronomo Tycho Brahe por sus trabajos en la refraccion de la luz de los astros, informacion que actualmente se emplea para determinar la composicion de los planetas debido a su espectro.
 
 <div align="center">
-<a href="#"><img src="https://github.com/user-attachments/assets/8293109c-dcd6-4385-b766-ff254fe505ba" alt="vscode" width="400" height="500"/></a>
+<a href="#"><img src="https://github.com/user-attachments/assets/8293109c-dcd6-4385-b766-ff254fe505ba" alt="vscode" width="500" height="500"/></a>
 </div>
 
 # Descripción
