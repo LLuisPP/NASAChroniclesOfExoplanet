@@ -1,6 +1,6 @@
 <div align="center">
 
-  # <a href="#"><img align="center" src="https://github.com/user-attachments/assets/8450f224-b9fd-4ff6-81b5-2dc1478c8873"></a> <br> Chronicles Of Exoplanet Exploration <br>
+  # <a href="#"><img align="center" src="https://github.com/user-attachments/assets/8450f224-b9fd-4ff6-81b5-2dc1478c8873"></a> <br><br> Chronicles Of Exoplanet Exploration
 <br>Explore Exoplanets es un proyecto interactivo que facilita el aprendizaje sobre exoplanetas mediante visualizaciones dinámicas y herramientas creativas, haciendo accesible la ciencia a estudiantes de todos los niveles.
 </div>
 
