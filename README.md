@@ -133,6 +133,14 @@ Acción: Una vez completada la exploración, tendrás la opción de nombrar el e
 
 `````
 
+All for tomorrow installed please ^_^
+<h3>nodemoduels = npm node.js https://nodejs.org/en  </h3>
+<h3>3.js https://threejs.org/  </h3>
+<h3>https://github.com/LuisEd2094/Exoplanet</h3>
+<h3>https-server  https://www.npmjs.com/package/http-server </h3>
+<h3>https://chromewebstore.google.com/detail/immersive-web-emulator/cgffilbpcibhmcfbgggfhfolhkfbhmik?hl=en</h3>
+
+
 <h2>Webgraphy</h2>
 - https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/chronicles-of-exoplanet-exploration/ <br>
 - https://svs.gsfc.nasa.gov/13022
