@@ -1,0 +1,116 @@
+People: Who will we need to involve?
+
+Storyteling: How will we communicate over the course of the project?
+
+Challenges: Who will we need to address?
+
+Management: How will we deliver the project and monitor progress?
+
+Vision: What does our vision look like?
+
+Impact: What difference will we make?
+
+
+Problem: What problems will we solve? 
+
+Opportunity: Potencial
+
+- Discover
+
+- Define
+
+Problem: verified
+
+Solution: What solution will we develop?
+
+- Develop
+
+Solution: validated
+
+**1. People: ¿A quiénes necesitaremos involucrar?**
+
+Para llevar a cabo este proyecto, necesitaremos involucrar a un equipo multidisciplinario que abarque distintas áreas clave:
+
+- **Científicos y astrofísicos**: Expertos en exoplanetas que guíen la creación de las simulaciones y la mecánica del juego basada en hechos científicos reales. 
+- **Desarrolladores de videojuegos**: Programadores que construyan la interfaz, las fases y la experiencia interactiva de forma dinámica y accesible para los usuarios.
+- **Diseñadores gráficos y artistas visuales**: Para crear los entornos espaciales, los exoplanetas y todos los elementos visuales que contribuyan a una experiencia inmersiva.
+- **Especialistas en UX/UI**: Expertos en experiencia de usuario que ayuden a crear una interfaz intuitiva y atractiva que mantenga el interés del jugador.
+- **Educadores**: Para garantizar que el contenido del juego sea educativo y estimulante para el público joven, manteniendo un equilibrio entre el aprendizaje y la diversión.
+- **Comunicadores**: Responsables de gestionar la difusión del proyecto, su presentación pública y la relación con las comunidades de jugadores y educadores.
+
+**2. Storytelling: ¿Cómo comunicaremos el proyecto a lo largo de su desarrollo?**
+
+El **storytelling** es esencial para mantener al equipo alineado y para atraer a la audiencia adecuada. El enfoque narrativo debe centrarse en la combinación de aventura, ciencia y educación:
+
+- **Inicio del viaje**: El jugador comienza como un enviado de la NASA con una misión clara: descubrir nuevos exoplanetas. Este marco narrativo nos permitirá atraer la atención inicial del jugador.
+- **Narrativa episódica**: A medida que el jugador avanza a través de las fases del juego (exploración de la estrella, identificación del exoplaneta, etc.), iremos incorporando pequeñas historias sobre lo que se va descubriendo. La nave Nasi será un personaje que guiará al jugador y revelará misterios, haciendo que la historia sea progresiva.
+- **Misterio creciente**: La idea de que cada exoplaneta contiene elementos inquietantes sobre posibles formas de vida anteriores o civilizaciones desaparecidas servirá para añadir capas de emoción.
+- **Actualización constante**: Mantendremos una comunicación activa con nuestra audiencia a través de redes sociales, boletines y plataformas educativas, mostrando avances, nuevas fases del juego y logros del proyecto. 
+
+**3. Challenges: ¿A quiénes debemos dirigirnos?**
+
+Los principales desafíos que debemos abordar son:
+
+- **El público joven**: Queremos captar la atención de jóvenes estudiantes y personas interesadas en la exploración espacial. Esto implica hacer que la ciencia sea accesible, divertida e inspiradora.
+- **Educadores y escuelas**: Este proyecto tiene un componente educativo muy fuerte, por lo que será importante que los educadores lo vean como una herramienta valiosa para enseñar astronomía y ciencias del espacio.
+- **Comunidad científica**: Involucrar a científicos de la NASA y otras instituciones para garantizar la veracidad científica y utilizar el proyecto como plataforma para concienciar sobre la exploración espacial.
+- **Jugadores casuales**: Este grupo nos permitirá ampliar el impacto del juego más allá del ámbito académico, asegurándonos de que la experiencia sea entretenida y atractiva para jugadores de diferentes niveles.
+
+**4. Management: ¿Cómo entregaremos el proyecto y monitorizaremos su progreso?**
+
+Para gestionar el proyecto, seguiremos una metodología **ágil**, con sprints de desarrollo y fases claramente definidas. Tendremos las siguientes etapas:
+
+1. **Fase de investigación y diseño**: Colaboración con científicos para definir el contenido educativo y la mecánica del juego.
+2. **Desarrollo inicial**: Prototipo del juego con las primeras fases de exploración de exoplanetas.
+3. **Testing y ajustes**: Pruebas internas y con usuarios seleccionados para ajustar la jugabilidad y mejorar la experiencia.
+4. **Lanzamiento**: Publicación del juego en plataformas digitales, acompañado de campañas de difusión.
+5. **Monitoreo y mejora continua**: Analizaremos el feedback de los usuarios y actualizaremos el juego con nuevas misiones y contenido. 
+
+Usaremos herramientas de **gestión de proyectos** como Trello, Jira o Asana para asignar tareas, fijar plazos y medir el progreso.
+
+**5. Vision: ¿Cómo luce nuestra visión?**
+
+Nuestra visión es **crear una plataforma educativa** que permita a jugadores de todas las edades experimentar el trabajo de un analista de exoplanetas, despertando su interés en la ciencia y la exploración espacial. A largo plazo, este proyecto podría convertirse en una serie de juegos educativos, cada uno enfocado en diferentes aspectos de la exploración espacial, con impacto tanto en el ámbito educativo como en la cultura general.
+
+**6. Impact: ¿Qué diferencia haremos?**
+
+Este proyecto creará una conexión directa entre la ciencia y el público general. No solo acercaremos conceptos complejos como la **exploración de exoplanetas**, sino que inspiraremos a la próxima generación de científicos, tecnólogos e ingenieros. Además, ofreceremos una herramienta que los educadores podrán usar para enseñar de una manera innovadora, haciendo que los estudiantes se involucren más en los campos STEM.
+
+**7. Problem: ¿Qué problemas resolveremos?**
+
+Resolveremos el **problema de accesibilidad al conocimiento científico**, haciendo que la exploración de exoplanetas sea comprensible y atractiva para personas que no tienen conocimientos previos. Además, abordaremos la falta de interés de los jóvenes en la ciencia, ofreciéndoles una forma divertida y educativa de aprender.
+
+**8. Opportunity: Potencial**
+
+El juego tiene un gran potencial para expandirse. A medida que nuevos descubrimientos científicos se vayan realizando, podremos integrar contenido adicional y colaborar con instituciones científicas. También podemos adaptar el juego a plataformas educativas para su uso en **aulas**, promoviendo el aprendizaje interactivo.
+
+### Fases de desarrollo:
+
+**9. Discover**
+
+- Realizamos una investigación exhaustiva sobre la exploración de exoplanetas y las tecnologías actuales utilizadas por la NASA. 
+- Establecimos las bases del juego y las fases educativas, definiendo una estructura de juego clara que conecta con las metas educativas y de entretenimiento.
+
+**10. Define**
+
+- Definimos la estructura del juego, donde el jugador aprende y utiliza sus conocimientos para avanzar, aumentando la dificultad progresivamente.
+- Identificamos las tecnologías clave que permitirán al jugador explorar de manera efectiva, como gráficos y sensores basados en la ciencia real.
+
+**11. Problem: verified**
+
+- Verificamos que el problema de la falta de interés y accesibilidad a la ciencia está presente, y que la solución propuesta (un juego educativo) puede abordarlo de manera eficiente.
+
+### Solución:
+
+**12. Develop**
+
+- Estamos desarrollando un juego con fases interactivas que permiten al jugador experimentar como un explorador de exoplanetas, simulando el uso de tecnologías y datos reales de la NASA. Esto permitirá aprender de manera divertida y dinámica.
+
+**13. Solution: validated**
+
+- La solución se validará a través de pruebas con usuarios, retroalimentación de educadores y científicos, y finalmente con el lanzamiento de una versión pública.
+
+
+
+
+
