@@ -1,3 +1,7 @@
+Vamos a desarrollar un videojuego de RV que simule Estar dentro de la estacion espacial para seguir en directo las misiones con ello, mison de exoplaneta, con camaras en directo, nosotros solo vamos a desarrollar la mison de descubrimientos de exoplanetas, pero podemos poner 30 misiones más en el tablon de anuncios que se vaya actualizando segun las necesidades
+
+
+
 People: Who will we need to involve?
 
 Storyteling: How will we communicate over the course of the project?
@@ -177,6 +181,56 @@ Si sigues este enfoque en la presentación, asegurándote de cumplir con todos l
 
 
 
+
+### **Misiones Científicas**
+1. **Detección de Exoplanetas (Misión Principal)**: Investigar y observar exoplanetas usando telescopios espaciales y análisis de datos.
+2. **Monitorización del Clima Espacial**: Estudiar las tormentas solares y su impacto en la Tierra y en los astronautas.
+3. **Cartografía de Aguas Subterráneas en Marte**: Utilizar sensores para analizar las formaciones subterráneas en Marte y la posibilidad de agua.
+4. **Estudio de la Atmósfera de Júpiter**: Analizar el comportamiento de la atmósfera de Júpiter, incluyendo la Gran Mancha Roja.
+5. **Exploración de Europa (Luna de Júpiter)**: Misiones con sondas virtuales para estudiar el océano bajo el hielo de Europa.
+6. **Análisis de Materiales de Asteroides**: Examinar muestras recogidas de asteroides cercanos a la Tierra.
+7. **Observación de Galaxias Lejanas**: Misiones de estudio para entender la evolución de las galaxias a través de imágenes del telescopio espacial James Webb.
+8. **Seguimiento de Satélites y Basura Espacial**: Gestionar la órbita y el control de satélites, evitando colisiones con desechos espaciales.
+9. **Investigación de Agujeros Negros**: Simular la observación de agujeros negros y estudiar sus propiedades.
+10. **Estudio de Ondas Gravitacionales**: Detectar y analizar las ondas gravitacionales generadas por eventos cósmicos.
+
+### **Misiones en la Estación Espacial**
+11. **Reparación de Módulos**: Mantenimiento de sistemas críticos de la EEI.
+12. **Cultivo de Plantas en el Espacio**: Monitorear y mantener experimentos de agricultura en microgravedad.
+13. **Monitorización de Salud de Astronautas**: Controlar la salud de la tripulación a través de sensores médicos avanzados.
+14. **Simulación de Caminatas Espaciales (EVA)**: Realizar reparaciones externas y actualizar equipos en el exterior de la EEI.
+15. **Recarga de Suministros desde Tierra**: Gestionar las operaciones de recepción de suministros enviados desde Tierra.
+16. **Mantenimiento de Paneles Solares**: Reparación y optimización de los paneles solares de la EEI.
+17. **Investigación de la Gravedad Cero en Humanos**: Estudio de los efectos a largo plazo de la microgravedad en el cuerpo humano.
+18. **Ensayo de Nuevas Tecnologías**: Pruebas de nuevas tecnologías desarrolladas por la NASA dentro de la EEI.
+19. **Monitoreo de Datos Científicos en Tiempo Real**: Analizar experimentos científicos en la estación espacial.
+20. **Estudio de Partículas Subatómicas en el Espacio**: Colaborar en experimentos de física avanzada en microgravedad.
+
+### **Misiones Exploratorias**
+21. **Exploración del Polo Sur de la Luna**: Simulación de misiones lunares centradas en la búsqueda de agua.
+22. **Misión a Marte con Rovers**: Controlar y guiar un rover en Marte para investigar su terreno.
+23. **Despliegue de Satélites en Órbita Baja**: Manejo de lanzamientos de pequeños satélites desde la EEI.
+24. **Construcción de una Base Lunar**: Simular el montaje de un hábitat en la Luna.
+25. **Exploración del Cinturón de Asteroides**: Misiones para analizar asteroides entre Marte y Júpiter.
+26. **Investigación de Venus**: Simular el envío de sondas a la atmósfera hostil de Venus.
+27. **Observación del Sol**: Recoger y analizar datos de la actividad solar.
+28. **Misiones a Titán (Luna de Saturno)**: Simulación de exploración con drones en la superficie de Titán.
+29. **Vigilancia de Glaciares Terrestres desde el Espacio**: Realizar estudios de monitoreo de glaciares y su deshielo mediante datos satelitales.
+30. **Estudio de Nebulosas Cercanas**: Utilizar telescopios espaciales para analizar la formación de estrellas en nebulosas.
+
+### **Misiones Humanitarias y Educativas**
+31. **Monitoreo de Desastres Naturales en la Tierra**: Utilización de satélites para detectar y analizar huracanes, terremotos y tsunamis.
+32. **Protección del Medio Ambiente desde el Espacio**: Seguimiento de la deforestación y la contaminación atmosférica.
+33. **Investigación de la Sostenibilidad en el Espacio**: Diseñar sistemas autosuficientes para futuras misiones de larga duración.
+34. **Programa de Entrenamiento para Astronautas**: Entrenamiento virtual para futuras misiones a la EEI o más allá.
+35. **Colaboración Internacional para la Paz Espacial**: Gestionar misiones diplomáticas entre diferentes agencias espaciales.
+36. **Desarrollo de Nuevas Medicinas en Microgravedad**: Estudiar cómo las proteínas se comportan en el espacio para desarrollar medicamentos innovadores.
+37. **Concienciación sobre el Cambio Climático**: Usar datos satelitales para educar sobre el cambio climático.
+38. **Gestión de Misiones Conjuntas con Empresas Privadas**: Colaboración entre la NASA y compañías espaciales privadas para el lanzamiento de cohetes.
+39. **Creación de Colonias Espaciales**: Simulación del establecimiento de colonias en Marte o la Luna.
+40. **Misión de Rescate en el Espacio**: Planificación y ejecución de una misión de emergencia para rescatar astronautas en peligro.
+
+Cada una de estas misiones podría actualizarse periódicamente en el tablón, brindando una experiencia dinámica a los jugadores. Esto también alienta la colaboración y el aprendizaje continuo, alineado con los objetivos del NASA Space Apps 2024.
 
 
 
