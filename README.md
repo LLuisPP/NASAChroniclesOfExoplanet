@@ -153,3 +153,4 @@ Bender models:
 Sol; asset_base_id:e7777ea0-e155-4979-9f0c-fe80d75cdf74
 
 https://drive.google.com/file/d/1S0xMR7MLOThxpB-H-dzcLzbn_6038a93/view?usp=sharing
+https://drive.google.com/file/d/14mGSkZKvfu49l8iFs73e913pcvedcDoi/view?usp=sharing
