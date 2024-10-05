@@ -146,3 +146,7 @@ All for tomorrow installed please ^_^
 <h2>Webgraphy</h2>
 - https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/chronicles-of-exoplanet-exploration/ <br>
 - https://svs.gsfc.nasa.gov/13022
+
+
+Bender models:
+Sol; asset_base_id:e7777ea0-e155-4979-9f0c-fe80d75cdf74
