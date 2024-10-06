@@ -64,8 +64,10 @@ The data must be integrated into the application for analysis.
 <b>Machine learning</b> can be employed to predict and classify new exoplanets, although this is not mandatory.
 The necessary <b>APIs</b> and resources will be provided to work with the scientific data.
 
+<div align="center">
 <a href="#"><img width="300" src="https://github.com/user-attachments/assets/b48964eb-7958-4b9a-b151-f11c9fe13965" /></a>
 <a href="#"><img width="300" src="https://github.com/user-attachments/assets/851b6dba-c84f-4ae9-8a23-31d5d2b09ea6" /></a>
+</div>
 
 General Specifications:
 
