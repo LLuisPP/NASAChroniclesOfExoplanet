@@ -123,13 +123,15 @@ IDE, lenguajes y plataformas:
 
 `````
 
-All for tomorrow installed please ^_^
-<h3>nodemoduels = npm node.js https://nodejs.org/en  </h3>
-<h3>3.js https://threejs.org/  </h3>
-<h3>https://github.com/LuisEd2094/Exoplanet</h3>
-<h3>https-server  https://www.npmjs.com/package/http-server </h3>
-<h3>https://chromewebstore.google.com/detail/immersive-web-emulator/cgffilbpcibhmcfbgggfhfolhkfbhmik?hl=en</h3>
-<h3>https://github.com/nasa/spaceapps/discussions/940</h3>
+<h3>Developing tools:</h3>
+node modules<br>
+https://nodejs.org/en
+<h4>3.js<br>
+https://threejs.org/
+https-server<br>
+https://www.npmjs.com/package/http-server 
+Chrome extension<br>
+https://chromewebstore.google.com/detail/immersive-web-emulator/cgffilbpcibhmcfbgggfhfolhkfbhmik?hl=en
 
 
 <h2>Webgraphy</h2>
