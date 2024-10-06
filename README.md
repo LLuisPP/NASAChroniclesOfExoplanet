@@ -4,13 +4,8 @@
 <br>Explore Exoplanets es un proyecto interactivo que facilita el aprendizaje sobre exoplanetas mediante visualizaciones dinámicas y herramientas creativas, haciendo accesible la ciencia a estudiantes de todos los niveles.
 </div>
 
-https://github.com/user-attachments/assets/48b836f8-3851-4108-b72b-71681463f2bf
-
 <h2 align="center">Welcome to the Chronicles of Exoplanets. Somos el Team Tycho, de 42 Bcn</h2>
 
-<div align="center">
-<a href="#"><img src="https://github.com/user-attachments/assets/8293109c-dcd6-4385-b766-ff254fe505ba" alt="vscode" width="500" height="500"/></a>
-</div>
 
 <div align="center">
 <table>
@@ -48,39 +43,57 @@ https://github.com/user-attachments/assets/48b836f8-3851-4108-b72b-71681463f2bf
 </div>
 
 # Logo del equipo
-Opciones para logos del equipo, se admiten otros conceptos, ideas y/o alternativas, tanto para el nombre como para el simbolo. Se elige Tycho por el astronomo Tycho Brahe por sus trabajos en la refraccion de la luz de los astros, informacion que actualmente se emplea para determinar la composicion de los planetas debido a su espectro.
+
+<div align="center">
+
+|Logo|Why Tycho|
+  |---|---|
+  |<a href="#"><img src="https://github.com/user-attachments/assets/8293109c-dcd6-4385-b766-ff254fe505ba" alt="tycho" width="300" height="100"/></a>|The choice of the name "Tycho" is inspired by the renowned astronomer Tycho Brahe, who made significant contributions to our understanding of the refraction of light from celestial bodies. His pioneering work laid the groundwork for modern spectroscopy, which is now essential for analyzing the composition of planets based on their spectral data|
+
+  
+</div>
 
 # Descripción
 
 <h3 weight="bold">El proyecto consiste en desarrollar un juego basado en la detección y visualización de exoplanetas y los indicadores fisicos que los detectan, utilizando datos científicos y visualizaciones interactivas.</h3>
 
 - La aplicación debe ser accesible desde dispositivos móviles o web.
-- Las tecnologías recomendadas para el desarrollo son <b>React Native</b> (mobile) o <b>React</b> (web).
+- Las tecnologías recomendadas para el desarrollo no especificadas.
 - Se utilizarán datos proporcionados por <b>NASA</b> y <b>exoplanet archives</b> para visualizar y clasificar exoplanetas.
 - Los datos deben integrarse en la aplicación para su análisis.
 - Se puede utilizar <b>machine learning</b> para predecir y clasificar nuevos exoplanetas, aunque no es obligatorio.
 - Se proporcionarán las <em>APIs</em> y recursos necesarios para trabajar con los datos científicos.
 
-Especificaciones generales:
+General Specifications:
+
+`````
+You may (but are not required to) consider the following:
+
+Your target audience can include elementary, middle, or high school students—or students at multiple levels!
+Your tool could:
+Focus on compelling storytelling through data visualizations.
+Depict the study of exoplanets.
+Show how exoplanets are found and characterized.
+Explain the goals of NASA’s Exoplanet Exploration Program.
+Link to NASA resources online.
+You could create fun art tools that allow young students to imagine and draw what exoplanets and exoplanet systems around stars would look like.
+Consider creating an interactive tool, such as a game or quiz!
+For data and resources related to this challenge, refer to the Resources tab at the top of the page. More resources may be added before the hackathon begins.
+`````
 
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="160">Lenguaje</td>
-    <td align="center" width="250">Librería<br></td>
-    <td align="center">Tipo</td>
-    <td align="center">Requeriments</td>
+    <td align="center" width="160">Technologies</td>
+    <td align="center" width="250">Libs & tools<br></td>
   </tr>
   <tr>
-    <td align="center"><a href="#"><img width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" /></a><br><a href="#"><img width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" /></a><br><a href="#"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a><br>
+    <td align="center"><a href="#"><img width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" /></a><br><a href="#"><img width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" /></a><br><a href="#"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a><br>
     </td>
-    <td align="center" width="250"><img width="200" src="" /></td>
-    <td align="center" width="120"></td>
-    <td width="330">
-      • 
-      </td>
+    <td align="center" width="250"> • ThreeJS <br> • Blender <br> • BlenderKit</td>
   </tr>
 </table>
+  
 </div>
 <br>
 
