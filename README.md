@@ -148,6 +148,9 @@ All for tomorrow installed please ^_^
 - https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/chronicles-of-exoplanet-exploration/ <br>
 - https://svs.gsfc.nasa.gov/13022
 
+<h3>SPEECH</h3>
+https://docs.google.com/document/d/13B5vN6bV0TMWkEoyOBmdwI-DRFhYHrqTrTy_4oYwS2M/edit?usp=sharing
+
 
 Bender models:
 Sol; asset_base_id:e7777ea0-e155-4979-9f0c-fe80d75cdf74
