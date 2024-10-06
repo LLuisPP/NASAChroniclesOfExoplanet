@@ -151,6 +151,8 @@ All for tomorrow installed please ^_^
 <h3>SPEECH</h3>
 https://docs.google.com/document/d/13B5vN6bV0TMWkEoyOBmdwI-DRFhYHrqTrTy_4oYwS2M/edit?usp=sharing
 
+<h3>DOCUMENT</h3>
+https://docs.google.com/document/d/1YJhD04ney8mo_zYtPxs_bnenb_9mb492uUlvESLh5YI/edit?usp=sharing
 
 Bender models:
 Sol; asset_base_id:e7777ea0-e155-4979-9f0c-fe80d75cdf74
