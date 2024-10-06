@@ -81,9 +81,9 @@ Consider creating an interactive tool, such as a game or quiz!
 For data and resources related to this challenge, refer to the Resources tab at the top of the page. More resources may be added before the hackathon begins.
 `````
 
-# Tecnologías Empleadas
+# Tecnologies used
 
-IDE, lenguajes y plataformas:
+IDE's & languages:
 <br>
 <br>
 
@@ -109,7 +109,7 @@ IDE, lenguajes y plataformas:
 <br>
 
 <br>
-<h3>How to install:</h3>
+<h3>How to install: <a href="#"><img align="right" src="https://img.shields.io/badge/Instructions-INSTALL-darkgreen"></a></h3> 
 
 `````
 
