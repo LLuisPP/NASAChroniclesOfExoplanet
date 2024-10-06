@@ -1,10 +1,10 @@
 <div align="center">
 
   # <a href="#"><img align="center" src="https://github.com/user-attachments/assets/8450f224-b9fd-4ff6-81b5-2dc1478c8873"></a> <br><br> Chronicles Of Exoplanet Exploration
-<br>Explore Exoplanets es un proyecto interactivo que facilita el aprendizaje sobre exoplanetas mediante visualizaciones dinámicas y herramientas creativas, haciendo accesible la ciencia a estudiantes de todos los niveles.
+<br>Tycho Explore Exoplanets is an interactive project designed to enhance learning about exoplanets through dynamic visualizations and creative tools. It makes science accessible to students of all levels, fostering curiosity and engagement in the exploration of the universe
 </div>
 
-<h2 align="center">Welcome to the Chronicles of Exoplanets. Somos el Team Tycho, de 42 Bcn</h2>
+<h2 align="center">Welcome to the Chronicles of Exoplanets. We are Team Tycho, from 42 Bcn</h2>
 
 
 <div align="center">
@@ -55,14 +55,14 @@
 
 # Descripción
 
-<h3 weight="bold">El proyecto consiste en desarrollar un juego basado en la detección y visualización de exoplanetas y los indicadores fisicos que los detectan, utilizando datos científicos y visualizaciones interactivas.</h3>
+<h3 weight="bold">The project involves developing a game focused on the detection and visualization of exoplanets and the physical indicators used to identify them, utilizing scientific data and interactive visualizations</h3>
 
-- La aplicación debe ser accesible desde dispositivos móviles o web.
-- Las tecnologías recomendadas para el desarrollo no especificadas.
-- Se utilizarán datos proporcionados por <b>NASA</b> y <b>exoplanet archives</b> para visualizar y clasificar exoplanetas.
-- Los datos deben integrarse en la aplicación para su análisis.
-- Se puede utilizar <b>machine learning</b> para predecir y clasificar nuevos exoplanetas, aunque no es obligatorio.
-- Se proporcionarán las <em>APIs</em> y recursos necesarios para trabajar con los datos científicos.
+The application must be accessible from mobile devices or the web.
+Recommended development technologies are not specified.
+Data provided by <b>NASA</b> and <b>exoplanet archives</b> will be used to visualize and classify exoplanets.
+The data must be integrated into the application for analysis.
+<b>Machine learning</b> can be employed to predict and classify new exoplanets, although this is not mandatory.
+The necessary <b>APIs</b> and resources will be provided to work with the scientific data.
 
 General Specifications:
 
@@ -81,70 +81,38 @@ Consider creating an interactive tool, such as a game or quiz!
 For data and resources related to this challenge, refer to the Resources tab at the top of the page. More resources may be added before the hackathon begins.
 `````
 
+# Tecnologías Empleadas
+
+IDE, lenguajes y plataformas:
+<br>
+<br>
+
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="160">Technologies</td>
+    <td align="center" width="200">Technologies</td>
     <td align="center" width="250">Libs & tools<br></td>
   </tr>
   <tr>
-    <td align="center"><a href="#"><img width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" /></a><br><a href="#"><img width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" /></a><br><a href="#"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a><br>
+    <td align="center">
+      <a href="#"><img width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/blender/blender-original.svg" /></a>
+      <a href="#"><img width="50" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" /></a>
+      <a href="#"><img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /></a>
+      <a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" alt="git" width="45" height="45"/></a>
     </td>
     <td align="center" width="250"> • ThreeJS <br> • Blender <br> • BlenderKit</td>
   </tr>
 </table>
   
 </div>
-<br>
-
-# Tecnologías Empleadas
-
-IDE, lenguajes y plataformas:
-<br>
-<br>
-<div align="center">
-<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/react/react-original.svg" alt="react" width="45" height="45"/></a>
-<a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-plain.svg" alt="git" width="45" height="45"/></a>
-<a href="#"><img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/></a>
-
-</div>
-<br>
-
-- <b>Javascript:</b> Utilizado para el desarrollo de la aplicación móvil en Android Studio.
-- <b>Python:</b> Empleado en el tratamiento de datos, visión por computadora y aprendizaje automático.
 
 <br>
+
+<br>
+<h3>How to install:</h3>
 
 `````
-Ideas para trasfondo:
 
-Científico analísta de exoplanetas: Tienes la convición de que hay planetas que podrian ser habitables, se convierte en la misión principal, con ayuda de tu nave y las herramientas necesarias lo lograreis descubrir.
-
-La última esperanza de la humanidad: Tras el colapso ecológico de la Tierra, la Nasa envia a un equipo de exploradores para encontrar exoplanetas habitables.
-
-En busqueda de otras civilizaciones perdidas: Como parte de una expedición, buscas restos de civilizaciones antiguas en exoplanetas. 
-
-Carrera de exploradores interestelares: Compites contra otros exploradores en una carrera por descubrir y catalogar exoplanetas. A medida que adquieres conocimientos y descubres nuevos mundos, subes en el ranking interestelar.
-
-Explorador superviviente: Eres el último superviviente de una misión de la NASA, destinado a explorar exoplanetas y buscar un nuevo hogar para la humanidad mientras luchas con la soledad y la vastedad del espacio.
-
-
-Ideas del juego en 4 fases:
-
-1- Exploración de la Estrella:
-Ajustar el ángulo y la sensibilidad de los sensores para detectar posibles exoplanetas con el Telescopio Espacial (Kepler/TESS), sensores de luz infrarroja y espectrómetro de velocidad radial.
-
-2- Clasificación del Exoplaneta:
-Recopilar datos sobre la atmósfera y masa del planeta utilizando espectroscopía de tránsito, astrometría, sensores atmosféricos y pistas de la nave "Nasi".
-
-3- Exploración del Exoplaneta:
-Adaptar el equipo de exploración según el tipo de exoplaneta para recolectar coleccionables y sobrevivir. Se pueden usar cámara de imágenes directas, drones exploradores, sensores térmicos.
-
-4- Nombrar el Exoplaneta:
-Acción: Una vez completada la exploración, tendrás la opción de nombrar el exoplaneta en la base de datos de nombres galácticos y recargar tu nave para la próxima misión.
 
 `````
 
