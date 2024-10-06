@@ -85,13 +85,12 @@ For data and resources related to this challenge, refer to the Resources tab at 
 
 IDE's & languages:
 <br>
-<br>
 
 <div align="center">
 <table>
   <tr>
-    <td align="center" width="200">Technologies</td>
-    <td align="center" width="250">Libs & tools<br></td>
+    <td align="center" width="300">Technologies</td>
+    <td align="center" width="600">Libs & tools<br></td>
   </tr>
   <tr>
     <td align="center">
@@ -105,8 +104,6 @@ IDE's & languages:
 </table>
   
 </div>
-
-<br>
 
 <br>
 <h3>How to install: <a href="#"><img align="right" src="https://img.shields.io/badge/Instructions-INSTALL-red"></a></h3> 
