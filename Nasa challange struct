@@ -1,143 +1,16 @@
-Vamos a desarrollar un videojuego de RV que simule Estar dentro de la estacion espacial para seguir en directo las misiones con ello, mison de exoplaneta, con camaras en directo, nosotros solo vamos a desarrollar la mison de descubrimientos de exoplanetas, pero podemos poner 30 misiones más en el tablon de anuncios que se vaya actualizando segun las necesidades
-
-
-
-People: Who will we need to involve?
-
-Storyteling: How will we communicate over the course of the project?
-
-Challenges: Who will we need to address?
-
-Management: How will we deliver the project and monitor progress?
-
-Vision: What does our vision look like?
-
-Impact: What difference will we make?
-
-
-Problem: What problems will we solve? 
-
-Opportunity: Potencial
-
-- Discover
-
-- Define
-
-Problem: verified
-
-Solution: What solution will we develop?
-
-- Develop
-
-Solution: validated
-
-**1. People: ¿A quiénes necesitaremos involucrar?**
-
-Para llevar a cabo este proyecto, necesitaremos involucrar a un equipo multidisciplinario que abarque distintas áreas clave:
-
-- **Científicos y astrofísicos**: Expertos en exoplanetas que guíen la creación de las simulaciones y la mecánica del juego basada en hechos científicos reales. 
-- **Desarrolladores de videojuegos**: Programadores que construyan la interfaz, las fases y la experiencia interactiva de forma dinámica y accesible para los usuarios.
-- **Diseñadores gráficos y artistas visuales**: Para crear los entornos espaciales, los exoplanetas y todos los elementos visuales que contribuyan a una experiencia inmersiva.
-- **Especialistas en UX/UI**: Expertos en experiencia de usuario que ayuden a crear una interfaz intuitiva y atractiva que mantenga el interés del jugador.
-- **Educadores**: Para garantizar que el contenido del juego sea educativo y estimulante para el público joven, manteniendo un equilibrio entre el aprendizaje y la diversión.
-- **Comunicadores**: Responsables de gestionar la difusión del proyecto, su presentación pública y la relación con las comunidades de jugadores y educadores.
-
-**2. Storytelling: ¿Cómo comunicaremos el proyecto a lo largo de su desarrollo?**
-
-El **storytelling** es esencial para mantener al equipo alineado y para atraer a la audiencia adecuada. El enfoque narrativo debe centrarse en la combinación de aventura, ciencia y educación:
-
-- **Inicio del viaje**: El jugador comienza como un enviado de la NASA con una misión clara: descubrir nuevos exoplanetas. Este marco narrativo nos permitirá atraer la atención inicial del jugador.
-- **Narrativa episódica**: A medida que el jugador avanza a través de las fases del juego (exploración de la estrella, identificación del exoplaneta, etc.), iremos incorporando pequeñas historias sobre lo que se va descubriendo. La nave Nasi será un personaje que guiará al jugador y revelará misterios, haciendo que la historia sea progresiva.
-- **Misterio creciente**: La idea de que cada exoplaneta contiene elementos inquietantes sobre posibles formas de vida anteriores o civilizaciones desaparecidas servirá para añadir capas de emoción.
-- **Actualización constante**: Mantendremos una comunicación activa con nuestra audiencia a través de redes sociales, boletines y plataformas educativas, mostrando avances, nuevas fases del juego y logros del proyecto. 
-
-**3. Challenges: ¿A quiénes debemos dirigirnos?**
-
-Los principales desafíos que debemos abordar son:
-
-- **El público joven**: Queremos captar la atención de jóvenes estudiantes y personas interesadas en la exploración espacial. Esto implica hacer que la ciencia sea accesible, divertida e inspiradora.
-- **Educadores y escuelas**: Este proyecto tiene un componente educativo muy fuerte, por lo que será importante que los educadores lo vean como una herramienta valiosa para enseñar astronomía y ciencias del espacio.
-- **Comunidad científica**: Involucrar a científicos de la NASA y otras instituciones para garantizar la veracidad científica y utilizar el proyecto como plataforma para concienciar sobre la exploración espacial.
-- **Jugadores casuales**: Este grupo nos permitirá ampliar el impacto del juego más allá del ámbito académico, asegurándonos de que la experiencia sea entretenida y atractiva para jugadores de diferentes niveles.
-
-**4. Management: ¿Cómo entregaremos el proyecto y monitorizaremos su progreso?**
-
-Para gestionar el proyecto, seguiremos una metodología **ágil**, con sprints de desarrollo y fases claramente definidas. Tendremos las siguientes etapas:
-
-1. **Fase de investigación y diseño**: Colaboración con científicos para definir el contenido educativo y la mecánica del juego.
-2. **Desarrollo inicial**: Prototipo del juego con las primeras fases de exploración de exoplanetas.
-3. **Testing y ajustes**: Pruebas internas y con usuarios seleccionados para ajustar la jugabilidad y mejorar la experiencia.
-4. **Lanzamiento**: Publicación del juego en plataformas digitales, acompañado de campañas de difusión.
-5. **Monitoreo y mejora continua**: Analizaremos el feedback de los usuarios y actualizaremos el juego con nuevas misiones y contenido. 
-
-Usaremos herramientas de **gestión de proyectos** como Trello, Jira o Asana para asignar tareas, fijar plazos y medir el progreso.
-
-**5. Vision: ¿Cómo luce nuestra visión?**
-
-Nuestra visión es **crear una plataforma educativa** que permita a jugadores de todas las edades experimentar el trabajo de un analista de exoplanetas, despertando su interés en la ciencia y la exploración espacial. A largo plazo, este proyecto podría convertirse en una serie de juegos educativos, cada uno enfocado en diferentes aspectos de la exploración espacial, con impacto tanto en el ámbito educativo como en la cultura general.
-
-**6. Impact: ¿Qué diferencia haremos?**
-
-Este proyecto creará una conexión directa entre la ciencia y el público general. No solo acercaremos conceptos complejos como la **exploración de exoplanetas**, sino que inspiraremos a la próxima generación de científicos, tecnólogos e ingenieros. Además, ofreceremos una herramienta que los educadores podrán usar para enseñar de una manera innovadora, haciendo que los estudiantes se involucren más en los campos STEM.
-
-**7. Problem: ¿Qué problemas resolveremos?**
-
-Resolveremos el **problema de accesibilidad al conocimiento científico**, haciendo que la exploración de exoplanetas sea comprensible y atractiva para personas que no tienen conocimientos previos. Además, abordaremos la falta de interés de los jóvenes en la ciencia, ofreciéndoles una forma divertida y educativa de aprender.
-
-**8. Opportunity: Potencial**
-
-El juego tiene un gran potencial para expandirse. A medida que nuevos descubrimientos científicos se vayan realizando, podremos integrar contenido adicional y colaborar con instituciones científicas. También podemos adaptar el juego a plataformas educativas para su uso en **aulas**, promoviendo el aprendizaje interactivo.
-
-### Fases de desarrollo:
-
-**9. Discover**
-
-- Realizamos una investigación exhaustiva sobre la exploración de exoplanetas y las tecnologías actuales utilizadas por la NASA. 
-- Establecimos las bases del juego y las fases educativas, definiendo una estructura de juego clara que conecta con las metas educativas y de entretenimiento.
-
-**10. Define**
-
-- Definimos la estructura del juego, donde el jugador aprende y utiliza sus conocimientos para avanzar, aumentando la dificultad progresivamente.
-- Identificamos las tecnologías clave que permitirán al jugador explorar de manera efectiva, como gráficos y sensores basados en la ciencia real.
-
-**11. Problem: verified**
-
-- Verificamos que el problema de la falta de interés y accesibilidad a la ciencia está presente, y que la solución propuesta (un juego educativo) puede abordarlo de manera eficiente.
-
-### Solución:
-
-**12. Develop**
-
-- Estamos desarrollando un juego con fases interactivas que permiten al jugador experimentar como un explorador de exoplanetas, simulando el uso de tecnologías y datos reales de la NASA. Esto permitirá aprender de manera divertida y dinámica.
-
-**13. Solution: validated**
-
-- La solución se validará a través de pruebas con usuarios, retroalimentación de educadores y científicos, y finalmente con el lanzamiento de una versión pública.
-
-
-
-
-
 Para cumplir con el máximo de puntos en el desafío de **NASA Space Apps 2024**, te propongo una estrategia de presentación que siga las pautas y criterios de evaluación, alineando la estructura del proyecto con los objetivos de la NASA y los criterios de los jueces. Aquí te detallo cómo enfocaría cada aspecto clave:
 
-### **1. Inspirar la colaboración, creatividad y pensamiento crítico:**
-- **Estructura colaborativa:** Desde el inicio de la exposición, destaca que el proyecto fue diseñado con un enfoque multidisciplinario, donde cada miembro del equipo aporta habilidades únicas: científicos, programadores, diseñadores y educadores. Esto muestra cómo hemos integrado diversas áreas del conocimiento para construir una solución robusta.
-- **Creatividad en el diseño del juego:** Resalta cómo el proyecto combina entretenimiento y educación a través de la simulación de análisis de exoplanetas, integrando ciencia real con mecánicas de juego novedosas que permiten a los jugadores experimentar lo que es ser un analista espacial. 
+1. Inspirar la colaboración, creatividad y pensamiento crítico:**
 - **Pensamiento crítico:** Explica cómo el juego no solo enseña, sino que desafía a los jugadores a resolver problemas reales basados en datos de la NASA, desde identificar exoplanetas hasta analizar sus características.
 
-### **2. Fomentar el interés por las ciencias y la exploración espacial:**
+2. Fomentar el interés por las ciencias y la exploración espacial:**
 - **Interactividad educativa:** Enfatiza que el proyecto tiene un enfoque claro en fomentar el interés por la ciencia espacial a través de la exploración práctica. Cada fase del juego introduce conceptos clave como la detección de exoplanetas, sus características físicas y posibles signos de vida.
 - **Gamificación científica:** Detalla cómo hemos transformado datos científicos complejos en una experiencia de juego accesible y emocionante, permitiendo a los jugadores aprender sobre astronomía mientras interactúan con misiones basadas en hechos reales.
-- **Curiosidad y misterio:** Explica cómo el juego mantiene la curiosidad del jugador viva a través de misterios sobre civilizaciones pasadas o posibles signos de vida en los exoplanetas, un elemento clave para captar el interés de la audiencia joven.
 
 ### **3. Crear conciencia sobre los datos de la NASA y socios espaciales:**
-- **Uso de datos reales:** Sube el nivel de credibilidad mostrando cómo el juego utiliza datos reales de la NASA y otras agencias espaciales para recrear la detección y análisis de exoplanetas. Explica que esta fidelidad a los datos no solo respalda la experiencia educativa, sino que también permite a los jugadores interactuar con información real sobre las estrellas y los planetas.
-- **Divulgación de datos abiertos:** Destaca cómo el proyecto promueve la accesibilidad a los datos abiertos de la NASA, transformándolos en una experiencia de aprendizaje interactivo. Los jugadores no solo aprenden a través del juego, sino que también se exponen a la importancia de los datos científicos en la exploración espacial.
 
 ### **4. Fomentar la diversidad y crecimiento de la próxima generación de científicos, tecnólogos, diseñadores y artistas:**
-- **Diversidad en el equipo:** Muestra cómo el proyecto no solo fue creado por científicos, sino también por diseñadores, programadores y narradores. Cada área ha contribuido a un producto final que combina tecnología, arte y ciencia, fomentando la colaboración entre diferentes disciplinas.
-- **Potencial educativo:** Explica cómo el juego puede inspirar a jóvenes jugadores a interesarse en carreras STEM (Ciencia, Tecnología, Ingeniería y Matemáticas). Podrías agregar ejemplos de cómo un estudiante puede desarrollar habilidades de análisis crítico y científico a través de las misiones del juego.
-  
+
 ### **Criterios de evaluación:**
 
 #### **Influencia:**
@@ -168,71 +41,17 @@ La presentación debe tener una estructura que siga esta narrativa:
 3. **Impacto**: Explica el potencial de impacto a nivel global y local, tanto en el ámbito educativo como en el fomento de la curiosidad científica.
 4. **Cierre emotivo**: Finaliza con una nota inspiradora, mencionando el potencial del proyecto para inspirar a la próxima generación de exploradores espaciales y científicos.
 
-Si sigues este enfoque en la presentación, asegurándote de cumplir con todos los requisitos técnicos y narrativos, tendrás una excelente oportunidad de maximizar los puntos en cada criterio de evaluación del **NASA Space Apps Challenge 2024**.
-
-
-
-
-
-
-
-
-
 
 
 
 
 ### **Misiones Científicas**
-1. **Detección de Exoplanetas (Misión Principal)**: Investigar y observar exoplanetas usando telescopios espaciales y análisis de datos.
-2. **Monitorización del Clima Espacial**: Estudiar las tormentas solares y su impacto en la Tierra y en los astronautas.
-3. **Cartografía de Aguas Subterráneas en Marte**: Utilizar sensores para analizar las formaciones subterráneas en Marte y la posibilidad de agua.
-4. **Estudio de la Atmósfera de Júpiter**: Analizar el comportamiento de la atmósfera de Júpiter, incluyendo la Gran Mancha Roja.
-5. **Exploración de Europa (Luna de Júpiter)**: Misiones con sondas virtuales para estudiar el océano bajo el hielo de Europa.
-6. **Análisis de Materiales de Asteroides**: Examinar muestras recogidas de asteroides cercanos a la Tierra.
-7. **Observación de Galaxias Lejanas**: Misiones de estudio para entender la evolución de las galaxias a través de imágenes del telescopio espacial James Webb.
-8. **Seguimiento de Satélites y Basura Espacial**: Gestionar la órbita y el control de satélites, evitando colisiones con desechos espaciales.
-9. **Investigación de Agujeros Negros**: Simular la observación de agujeros negros y estudiar sus propiedades.
-10. **Estudio de Ondas Gravitacionales**: Detectar y analizar las ondas gravitacionales generadas por eventos cósmicos.
 
 ### **Misiones en la Estación Espacial**
-11. **Reparación de Módulos**: Mantenimiento de sistemas críticos de la EEI.
-12. **Cultivo de Plantas en el Espacio**: Monitorear y mantener experimentos de agricultura en microgravedad.
-13. **Monitorización de Salud de Astronautas**: Controlar la salud de la tripulación a través de sensores médicos avanzados.
-14. **Simulación de Caminatas Espaciales (EVA)**: Realizar reparaciones externas y actualizar equipos en el exterior de la EEI.
-15. **Recarga de Suministros desde Tierra**: Gestionar las operaciones de recepción de suministros enviados desde Tierra.
-16. **Mantenimiento de Paneles Solares**: Reparación y optimización de los paneles solares de la EEI.
-17. **Investigación de la Gravedad Cero en Humanos**: Estudio de los efectos a largo plazo de la microgravedad en el cuerpo humano.
-18. **Ensayo de Nuevas Tecnologías**: Pruebas de nuevas tecnologías desarrolladas por la NASA dentro de la EEI.
-19. **Monitoreo de Datos Científicos en Tiempo Real**: Analizar experimentos científicos en la estación espacial.
-20. **Estudio de Partículas Subatómicas en el Espacio**: Colaborar en experimentos de física avanzada en microgravedad.
 
 ### **Misiones Exploratorias**
-21. **Exploración del Polo Sur de la Luna**: Simulación de misiones lunares centradas en la búsqueda de agua.
-22. **Misión a Marte con Rovers**: Controlar y guiar un rover en Marte para investigar su terreno.
-23. **Despliegue de Satélites en Órbita Baja**: Manejo de lanzamientos de pequeños satélites desde la EEI.
-24. **Construcción de una Base Lunar**: Simular el montaje de un hábitat en la Luna.
-25. **Exploración del Cinturón de Asteroides**: Misiones para analizar asteroides entre Marte y Júpiter.
-26. **Investigación de Venus**: Simular el envío de sondas a la atmósfera hostil de Venus.
-27. **Observación del Sol**: Recoger y analizar datos de la actividad solar.
-28. **Misiones a Titán (Luna de Saturno)**: Simulación de exploración con drones en la superficie de Titán.
-29. **Vigilancia de Glaciares Terrestres desde el Espacio**: Realizar estudios de monitoreo de glaciares y su deshielo mediante datos satelitales.
-30. **Estudio de Nebulosas Cercanas**: Utilizar telescopios espaciales para analizar la formación de estrellas en nebulosas.
 
 ### **Misiones Humanitarias y Educativas**
-31. **Monitoreo de Desastres Naturales en la Tierra**: Utilización de satélites para detectar y analizar huracanes, terremotos y tsunamis.
-32. **Protección del Medio Ambiente desde el Espacio**: Seguimiento de la deforestación y la contaminación atmosférica.
-33. **Investigación de la Sostenibilidad en el Espacio**: Diseñar sistemas autosuficientes para futuras misiones de larga duración.
-34. **Programa de Entrenamiento para Astronautas**: Entrenamiento virtual para futuras misiones a la EEI o más allá.
-35. **Colaboración Internacional para la Paz Espacial**: Gestionar misiones diplomáticas entre diferentes agencias espaciales.
-36. **Desarrollo de Nuevas Medicinas en Microgravedad**: Estudiar cómo las proteínas se comportan en el espacio para desarrollar medicamentos innovadores.
-37. **Concienciación sobre el Cambio Climático**: Usar datos satelitales para educar sobre el cambio climático.
-38. **Gestión de Misiones Conjuntas con Empresas Privadas**: Colaboración entre la NASA y compañías espaciales privadas para el lanzamiento de cohetes.
-39. **Creación de Colonias Espaciales**: Simulación del establecimiento de colonias en Marte o la Luna.
-40. **Misión de Rescate en el Espacio**: Planificación y ejecución de una misión de emergencia para rescatar astronautas en peligro.
-
-Cada una de estas misiones podría actualizarse periódicamente en el tablón, brindando una experiencia dinámica a los jugadores. Esto también alienta la colaboración y el aprendizaje continuo, alineado con los objetivos del NASA Space Apps 2024.
-
-
 
 
 
