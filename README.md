@@ -81,7 +81,7 @@ Consider creating an interactive tool, such as a game or quiz!
 For data and resources related to this challenge, refer to the Resources tab at the top of the page. More resources may be added before the hackathon begins.
 `````
 
-# Tecnologies used
+# Tecnologies
 
 IDE's & languages:
 <br>
@@ -109,7 +109,7 @@ IDE's & languages:
 <br>
 
 <br>
-<h3>How to install: <a href="#"><img align="right" src="https://img.shields.io/badge/Instructions-INSTALL-darkgreen"></a></h3> 
+<h3>How to install: <a href="#"><img align="right" src="https://img.shields.io/badge/Instructions-INSTALL-red"></a></h3> 
 
 `````
 
@@ -137,15 +137,6 @@ https://chromewebstore.google.com/detail/immersive-web-emulator/cgffilbpcibhmcfb
 <h2>Webgraphy</h2>
 - https://www.spaceappschallenge.org/nasa-space-apps-2024/challenges/chronicles-of-exoplanet-exploration/ <br>
 - https://svs.gsfc.nasa.gov/13022
-
-<h3>SPEECH</h3>
-https://docs.google.com/document/d/13B5vN6bV0TMWkEoyOBmdwI-DRFhYHrqTrTy_4oYwS2M/edit?usp=sharing
-
-<h3>DOCUMENT</h3>
-https://docs.google.com/document/d/1YJhD04ney8mo_zYtPxs_bnenb_9mb492uUlvESLh5YI/edit?usp=sharing
-
-Bender models:
-Sol; asset_base_id:e7777ea0-e155-4979-9f0c-fe80d75cdf74
 
 https://drive.google.com/file/d/1S0xMR7MLOThxpB-H-dzcLzbn_6038a93/view?usp=sharing
 https://drive.google.com/file/d/14mGSkZKvfu49l8iFs73e913pcvedcDoi/view?usp=sharing
