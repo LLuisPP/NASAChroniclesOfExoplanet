@@ -114,8 +114,15 @@ IDE's & languages:
 
 `````
 
-1- Donwload repo files. Also links added with HD textures.
-2- Put HD textures in ./assets/
+1- Donwload repo files.
+
+  A. Install Node.js
+    Download and install from nodejs.org.
+  B. Install Three.js
+    npm install three
+  C. Install a local server
+    npm install -g http-server
+
 3- Run local https-server in your terminal: if you dont have one on your computer:
     run server certificates :    openssl req -nodes -new -x509 -keyout server.key -out server.cert
     run server:                  http-server -S -C server.cert -K server.key -p 3000 -c-1
