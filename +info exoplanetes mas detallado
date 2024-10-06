@@ -1,8 +1,7 @@
 Los **exoplanetas** (planetas fuera de nuestro sistema solar) presentan una diversidad impresionante, y su clasificación depende de sus propiedades físicas, químicas y orbitales. A continuación, te explico los principales tipos de exoplanetas y cómo se diferencian:
 
----
 
-### **1. Planetas Terrestres (Rocosos):**
+1. Planetas Terrestres (Rocosos):**
    - **Planetas Terrestres** son similares a la Tierra: compuestos principalmente de roca y metal, con superficies sólidas. Suelen ser más pequeños que los gigantes gaseosos y están más cerca de su estrella.
    
    **Subtipos:**
@@ -39,50 +38,36 @@ Los **exoplanetas** (planetas fuera de nuestro sistema solar) presentan una dive
 
 ---
 
-### **Métodos para Detectar y Diferenciar Exoplanetas:**
+Métodos para Detectar y Diferenciar Exoplanetas:
 
 Para diferenciar los exoplanetas y obtener información sobre su masa, tamaño, composición y atmósfera, se utilizan varios métodos:
 
-1. **Velocidad Radial:**
+Velocidad Radial:
    - Mide los pequeños "bamboleos" de una estrella causados por la gravedad de un exoplaneta en órbita. Este método es útil para detectar planetas más masivos (gigantes gaseosos).
-
-2. **Tránsitos:**
+ 
+Tránsitos:
    - Mide la caída de luz de una estrella cuando un planeta pasa frente a ella. Es útil para determinar el tamaño del planeta y si tiene una atmósfera.
 
-3. **Microlentes Gravitacionales:**
-   - Utiliza la curvatura de la luz de una estrella por la gravedad de un planeta en el camino para detectar planetas más alejados de su estrella.
-
-4. **Imagen Directa:**
-   - Aunque es extremadamente difícil, en algunos casos se pueden obtener imágenes directas de exoplanetas, especialmente si están lejos de su estrella.
-
-5. **Pulsos de Radio de Púlsar:**
+Pulsos de Radio de Púlsar:
    - Los planetas de púlsares se detectan debido a las variaciones regulares en los pulsos de radio de la estrella de neutrones.
 
-6. **Astrometría:**
-   - Mide el movimiento preciso de una estrella en respuesta a la gravedad de un planeta, pero es más efectivo en planetas masivos y cercanos.
-
-7. **Espectroscopía de Tránsito:**
+Espectroscopía de Tránsito:
    - Analiza la luz estelar que pasa a través de la atmósfera de un planeta durante un tránsito, lo que permite conocer la composición atmosférica.
 
-8. **Perturbaciones en Discos de Polvo:**
+Perturbaciones en Discos de Polvo:
    - Los planetas en formación o ya formados pueden perturbar los discos de polvo a su alrededor, creando "huecos" detectables en imágenes de alta resolución.
+---
+
+Diferencias Clave entre Tipos de Exoplanetas:
+   - Tamaño y Masa: Los gigantes gaseosos son mucho más grandes y masivos que los planetas terrestres, aunque hay excepciones (megatierras, superjúpiteres).
+   - Composición: Los planetas terrestres están hechos de roca y metal, mientras que los gigantes gaseosos tienen envolturas gruesas de hidrógeno y helio.
+   - Temperatura: Los júpiteres calientes, por ejemplo, están muy cerca de sus estrellas y tienen temperaturas extremas, mientras que los neptunos fríos están más lejos y son mucho más fríos.
+   - Distancia a su estrella: Los planetas pueden estar cerca (planetas de lava, júpiteres calientes) o muy lejos de su estrella (planetas helados, gigantes de hielo).
 
 ---
 
-### **Diferencias Clave entre Tipos de Exoplanetas:**
-   - **Tamaño y Masa:** Los gigantes gaseosos son mucho más grandes y masivos que los planetas terrestres, aunque hay excepciones (megatierras, superjúpiteres).
-   - **Composición:** Los planetas terrestres están hechos de roca y metal, mientras que los gigantes gaseosos tienen envolturas gruesas de hidrógeno y helio.
-   - **Temperatura:** Los júpiteres calientes, por ejemplo, están muy cerca de sus estrellas y tienen temperaturas extremas, mientras que los neptunos fríos están más lejos y son mucho más fríos.
-   - **Distancia a su estrella:** Los planetas pueden estar cerca (planetas de lava, júpiteres calientes) o muy lejos de su estrella (planetas helados, gigantes de hielo).
-
+Instrumentos Utilizados para el Estudio de Exoplanetas:
+   - Telescopio Kepler: Especializado en detectar exoplanetas utilizando el método de tránsito.
+   - Telescopio Espacial James Webb (JWST): Puede estudiar la composición atmosférica de los exoplanetas con su capacidad de observación infrarroja.
+   - Telescopio Espacial Hubble: Ha sido utilizado para la observación directa y espectroscopía de exoplanetas.
 ---
-
-### **Instrumentos Utilizados para el Estudio de Exoplanetas:**
-   - **Telescopio Kepler:** Especializado en detectar exoplanetas utilizando el método de tránsito.
-   - **Telescopio Espacial James Webb (JWST):** Puede estudiar la composición atmosférica de los exoplanetas con su capacidad de observación infrarroja.
-   - **Telescopio Espacial Hubble:** Ha sido utilizado para la observación directa y espectroscopía de exoplanetas.
-   - **Telescopio Nancy Grace Roman (futuro):** Diseñado para detectar exoplanetas mediante microlentes gravitacionales.
-
----
-
-Esta amplia variedad de tipos y métodos de detección nos brinda una visión profunda de la diversidad de planetas que existen en el universo, lo que amplía nuestra comprensión sobre la formación de planetas y las condiciones para la vida.
