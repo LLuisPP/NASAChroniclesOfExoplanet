@@ -105,7 +105,6 @@ IDE's & languages:
   
 </div>
 
-<br>
 <h3>How to install: <a href="#"><img align="right" src="https://img.shields.io/badge/Instructions-INSTALL-red"></a></h3> 
 
 `````
