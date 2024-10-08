@@ -157,3 +157,9 @@ https://docs.google.com/document/d/1YJhD04ney8mo_zYtPxs_bnenb_9mb492uUlvESLh5YI/
 
 <h3>Vídeo</h3>
 https://drive.google.com/file/d/16cv5urkByHFgwvqxFyNR9PsIOqHtBf5H/view?usp=sharing
+
+<br>
+<h2>Participation Certificate</h2>
+<div align="center">
+<a href="#"><img width="700" src="https://github.com/user-attachments/assets/aa764ce1-18b4-4631-b12b-8b637774817f" /></a>
+</div>
