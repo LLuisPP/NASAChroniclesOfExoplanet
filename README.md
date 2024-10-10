@@ -123,11 +123,11 @@ IDE's & languages:
   C. Install a local server
     npm install -g http-server
 
-3- Run local https-server in your terminal: if you dont have one on your computer:
+2- Run local https-server in your terminal: if you dont have one on your computer:
     run server certificates :    openssl req -nodes -new -x509 -keyout server.key -out server.cert
     run server:                  http-server -S -C server.cert -K server.key -p 3000 -c-1
-4- Load on your browser the net IP shown in the server status in your terminal.
-5- If you dont have VR Googles, controlers are shown using VR browser extension.
+3- Load on your browser the net IP shown in the server status in your terminal.
+4- If you dont have VR Googles, controlers are shown using VR browser extension.
 
 `````
 
