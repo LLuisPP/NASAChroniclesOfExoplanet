@@ -42,7 +42,7 @@
 
 </div>
 
-# Logo del equipo
+# Team logo
 
 <div align="center">
 
@@ -53,7 +53,7 @@
   
 </div>
 
-# Descripción
+# Description
 
 <h3 weight="bold">The project involves developing a game focused on the detection and visualization of exoplanets and the physical indicators used to identify them, utilizing scientific data and interactive visualizations</h3>
 
