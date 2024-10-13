@@ -112,10 +112,12 @@ IDE's & languages:
 
 <h3>How to install: <a href="#"><img align="right" src="https://img.shields.io/badge/Instructions-INSTALL-red"></a></h3> 
 
+> [!WARNING]
+> You need to install at least blender, and the local server in order to execute the program
+
+
 `````
-
 1- Donwload repo files.
-
   A. Install Node.js
     Download and install from nodejs.org.
   B. Install Three.js
