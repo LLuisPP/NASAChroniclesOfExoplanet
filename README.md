@@ -46,7 +46,7 @@
 
 <div align="center">
 
-|Logo|Why Tycho|
+|Logo|Why Tycho?|
   |---|---|
   |<a href="#"><img src="https://github.com/user-attachments/assets/8293109c-dcd6-4385-b766-ff254fe505ba" alt="tycho" width="300" height="100"/></a>|The choice of the name "Tycho" is inspired by the renowned astronomer Tycho Brahe, who made significant contributions to our understanding of the refraction of light from celestial bodies. His pioneering work laid the groundwork for modern spectroscopy, which is now essential for analyzing the composition of planets based on their spectral data|
 
